@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AndroidRoot/vendor_proprietary_asus_tf101" path="vendor/asus/tf101" revision="ics" />
+  <project name="AndroidRoot/vendor_proprietary_asus_tf201" path="vendor/asus/tf201" revision="ics" />
+  <project name="xplodwild/android_vendor_asus_tf300t" path="vendor/asus/tf300t" remote="github" revision="master" />
+  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" revision="ics" />
+  <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
+
+  <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
+  <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" revision="ics" />
+  <project name="CyanogenMod/android_kernel_asus_tf101" path="kernel/asus/tf101" remote="github" revision="9.2.1.17" />
+  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" remote="github" revision="rel-14r7-cleanup" />
+  <project name="CyanogenMod/android_device_asus_tf300t" path="device/asus/tf300t" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_kernel_asus_tf300t" path="kernel/asus/tf300t" remote="github" revision="ics" />
+
+  <project name="CyanogenMod/android_device_moto_common" path="device/moto/common" revision="ics" />
+  <project name="CyanogenMod/android_device_moto_stingray" path="device/moto/stingray" revision="ics" />
+  <project name="CyanogenMod/android_device_moto_wingray" path="device/moto/wingray" revision="ics" />
+  <project name="CyanogenMod/motorola-kernel-stingray" path="kernel/motorola/stingray" remote="github" revision="ics" />
+
+  <project name="CyanogenMod/android_device_samsung_p5-common" path="device/samsung/p5-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p5wifi" path="device/samsung/p5wifi" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p5" path="device/samsung/p5" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4-common" path="device/samsung/p4-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4wifi" path="device/samsung/p4wifi" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4vzw" path="device/samsung/p4vzw" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4tmo" path="device/samsung/p4tmo" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4" path="device/samsung/p4" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p3" path="device/samsung/p3" revision="ics" />
+
+  <project name="CyanogenMod/android_device_samsung_p1-common" path="device/samsung/p1-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p1" path="device/samsung/p1" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p1c" path="device/samsung/p1c" revision="ics" />
+  <project name="CyanogenMod/android_kernel_samsung_p1" path="kernel/samsung/p1" remote="github" revision="android-samsung-2.6.35" />
+  <project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" path="kernel/samsung/p1c" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p1l" path="device/samsung/p1l" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p1n" path="device/samsung/p1n" remote="github" revision="ics" />
+
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="ics" />
+</manifest>
