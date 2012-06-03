@@ -119,9 +119,6 @@ fi
 lunch $LUNCH
 check_result "lunch failed."
 
-# save manifest used for build (saving revisions as current HEAD)
-repo manifest -o $WORKSPACE/archive/manifest.xml -r
-
 rm -f $OUT/cm-*.zip*
 
 UNAME=$(uname)
