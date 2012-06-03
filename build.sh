@@ -74,7 +74,7 @@ then
 fi
 
 git config --global user.name $(whoami)@$HOSTNAME
-git config --global user.email jenkins@cyanogenmod.com
+git config --global user.email mail.sgt7@gmail.com
 
 mkdir -p $REPO_BRANCH
 cd $REPO_BRANCH
