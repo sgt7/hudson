@@ -129,14 +129,12 @@ UNAME=$(uname)
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
     export CM_NIGHTLY=true
-  fi
 elif [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
 then
   export CM_SNAPSHOT=true
 elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
 then
     export CM_RELEASE=true
-  fi
 fi
 
 if [ ! -z "$CM_EXTRAVERSION" ]
