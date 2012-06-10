@@ -5,6 +5,8 @@
   <project name="xplodwild/android_vendor_asus_tf300t" path="vendor/asus/tf300t" remote="github" revision="master" />
   <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" revision="ics" />
   <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
+  <project name="kalltkaffe/android_vendor_samsung_p5" path="vendor/samsung/p5" revision="master">
+  <project name="kalltkaffe/android_vendor_samsung_p5wifi" path="vendor/samsung/p5wifi" revision="ics"> 
 
   <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
   <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" revision="ics" />
